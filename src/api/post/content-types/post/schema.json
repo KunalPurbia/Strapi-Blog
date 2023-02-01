@@ -24,7 +24,7 @@
       "required": true,
       "minLength": 25
     },
-    "Slug": {
+    "slug": {
       "type": "uid",
       "required": true,
       "targetField": "title"
